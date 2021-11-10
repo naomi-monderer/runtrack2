@@ -1,0 +1,1 @@
+SELECT `prenom`, `nom`, `naissance` FROM `etudiants` WHERE naissance BETWEEN '19980101' AND '20180101'; 
